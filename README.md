@@ -15,7 +15,7 @@ For MacOS or Linux:
 For Windows:
     python pdf.py
 
-The output will be output_pdf.py
+The output will be output_pdf.pdf
 
 ## Licence
 
