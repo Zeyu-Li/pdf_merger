@@ -38,6 +38,7 @@ This will give it a new output name of newName (.pdf is assumed, but putting new
 ## Required
 
 * [PyPDF2](https://pythonhosted.org/PyPDF2/)
+* re - regular expressions for incremented naming
 
 ## Licence
 
