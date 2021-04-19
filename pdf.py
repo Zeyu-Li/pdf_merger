@@ -65,6 +65,7 @@ def main():
         name = "output.pdf"
         if maximum != 0:
             name = "output"+ str(maximum) +".pdf"
+            print("Outputting to {}".format("output"+ str(maximum) +".pdf"))
 
     # merge all the pdf files
 
